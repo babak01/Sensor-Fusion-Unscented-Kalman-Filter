@@ -3,7 +3,6 @@
 ***
 
 <br>
-<br>
 This code is part of one of the projects in [Udacity sensor fusion nanodegree program](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313).
 <br>
 <br>
