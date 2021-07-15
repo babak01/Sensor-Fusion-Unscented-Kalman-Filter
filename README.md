@@ -28,6 +28,11 @@ The green car is the main ego car and other cars are blue. The red spheres above
 <br>
 <br>
 
+![video_ukf_2_mute_ed_resized_gif](https://user-images.githubusercontent.com/54375769/125867472-7e162ed5-f7a2-4d96-a6e8-2733ba210070.gif)
+
+<br>
+<br>
+
 ## Installation and Run
 ***
 The installation and run processes are the same as one that explained in [Udacity github repository](https://github.com/rayryeng/SFND_Lidar_Obstacle_Detection).
