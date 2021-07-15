@@ -7,7 +7,7 @@
 This code is part of one of the projects in [Udacity sensor fusion nanodegree program](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313).
 <br>
 
-
+![video_ukf_1_mute_ed_resized_gif](https://user-images.githubusercontent.com/54375769/125867324-72494423-d17c-49c6-991d-4c6d7d364136.gif)
 
 <br>
 The goal of this project is to track three traffic cars using CTRV motion model. Although the cars have variable acceleration and turning rates the UKF is still able to track objects quite well with CTRV model.<br>
